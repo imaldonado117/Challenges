@@ -20,13 +20,17 @@ No challenges or difficulties were encountered but, the analysis may have been d
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Based upon the data, the kickstarter for Theaters were overall fairly successful overall. The majority of which were most successful during the Spring and Summer Months. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 Based upon the data, the kickstater goals were most successful with amounts less than $5,000. Most of the goals greater than $20,000 were unsuccessfull.
 
 - What are some limitations of this dataset?
+
 The extreme majority of the Goals are less than $1,000 which makes analysis on any goal greater than that less analytically significant. The data doesn't provide any demographics of those participating in the kickstarter thus limiting the extent of the analysis.
 
 - What are some other possible tables and/or graphs that we could create?
+
 A pie chart based upon the Goals and Outcome would be useful in getting a sense of the overall revenue obtained from the Kickstater.
